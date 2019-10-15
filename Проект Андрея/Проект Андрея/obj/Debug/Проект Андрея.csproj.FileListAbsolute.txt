@@ -1,0 +1,7 @@
+C:\Users\anti4\source\repos\Проект Андрея\Проект Андрея\obj\Debug\Проект Андрея.csprojAssemblyReference.cache
+C:\Users\anti4\source\repos\Проект Андрея\Проект Андрея\obj\Debug\Проект Андрея.csproj.CoreCompileInputs.cache
+C:\Users\anti4\source\repos\Проект Андрея\Проект Андрея\bin\Debug\Проект Андрея.exe.config
+C:\Users\anti4\source\repos\Проект Андрея\Проект Андрея\bin\Debug\Проект Андрея.exe
+C:\Users\anti4\source\repos\Проект Андрея\Проект Андрея\bin\Debug\Проект Андрея.pdb
+C:\Users\anti4\source\repos\Проект Андрея\Проект Андрея\obj\Debug\Проект Андрея.exe
+C:\Users\anti4\source\repos\Проект Андрея\Проект Андрея\obj\Debug\Проект Андрея.pdb
